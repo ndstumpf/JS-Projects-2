@@ -1,2 +1,2 @@
-# JS-Projects-2
+# Semáforo
 https://incandescent-khapse-0cbfc4.netlify.app
